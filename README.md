@@ -1,6 +1,10 @@
 # Convert-Users-AD
 Convert Users format (Name Surname) in valid Active Directory Users
 
+Many times doing an AD pentest we need to create a few combinations of users we found in a web, that´s what this script does.
+
+It creates a few combinations of user name+surname that are likley to appear in an AD enviroment
+
 ## USAGE:
 
 ```python3 convert-users-AD.py -h```
