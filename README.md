@@ -1,7 +1,7 @@
 # Convert-Users-AD
 Convert Users format (Name Surname) in valid Active Directory Users
 
-## Example with test.txt:
+## USAGE:
 
 ```python3 convert-users-AD.py -h```
 
@@ -18,6 +18,8 @@ Username2 Surname2
 Username3 Surname3
 ...
 ``` 
+
+## Example with test.txt:
 
 ```cat test.txt```
 
