@@ -8,7 +8,7 @@ Convert Users format (Name Surname) in valid Active Directory Users
 ```
 [+] USAGE
 
-> python3 convert_users_AD.py Users_file.txt
+> python3 convert-users-AD.py Users_file.txt
 
 
 [+] Users_file.txt format:
