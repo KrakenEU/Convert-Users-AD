@@ -23,6 +23,7 @@ try:
 		usuarios.append(name.split()[0] + name.split()[1][0]) # NameS
 		usuarios.append(name.split()[0][0] + '.' + name.split()[1]) # N.Surname
 		usuarios.append(name.split()[0] + '.' + name.split()[1][0]) # Name.S
+		usuarios.append(name.split()[0] + '.' + name.split()[1]) # Name.Surname
 	if len(usuarios)>=1:
 		for x in usuarios:
 			print(x)
